@@ -5,8 +5,55 @@ This script helps you achieve superiority in the game against your opponents. Yo
 
 
 ## Features:
-* feature1
-
+* Undetected
+* Clean UI Library
+* Optimized
+* Auto Farm Gems
+* Teleport to Murder
+* Teleport to Sheriff
+* Teleport to Lobby
+* Teleport to Map
+* Expose roles
+* Grab Gun
+* Knife Aura
+* Inf Ammo
+* God Mode
+* Silent Aim
+* Select Aim Target [Head/Body]
+* Draw Fov
+* Rainbow Fov
+* Fov Radius
+* Fov Numsides
+* Snaplines
+* Rainbow Snaplines
+* Boxes
+* Names 
+* Distance
+* Tracers
+* Rainbow Color
+* Face Camera 
+* Player Highlight
+* Rainbow Highlight
+* Spam Error Sound
+* Spam Sound
+* Annoying players
+* Crazy Equip
+* Gun Changer
+* Knife Changer
+* Skin Changer
+* WalkSpeed
+* JumpPower
+* Field of View
+* Infinite Jump
+* No Clip
+* Bhop
+* Teleport Spawn
+* Teleport Safe Zone
+* Full Bright
+* Rejoin
+* Serverhop
+* Server Browser
+* Configs (Saves your settings)
 
 ## Preview:
 ![image](https://github.com/zReal-King/Knife-Ability-Test/assets/71533667/ac60f9a2-20ac-4988-8f88-0439362c4bdc)
