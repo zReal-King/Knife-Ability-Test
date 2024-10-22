@@ -1,5 +1,5 @@
 # Knife Ability Test – THE #1 FREE GUI!
-GUI For the Roblox Game KAT! If you would like to paste these scripts into your own cheat, make sure to leave credit to the original owner.
+KAT script
 ## About
 This script helps you achieve superiority in the game against your opponents. You have many things, starting with Auto Farm, Silent Aim, Gun/Knife Mod, ESP, Trolling, and many more features that make you invincible.
 
