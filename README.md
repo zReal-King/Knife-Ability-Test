@@ -1,39 +1,55 @@
 # Knife Ability Test – THE #1 FREE GUI!
-KAT script
+KAT The Best Free GUI Script
+
 ## About
-This script helps you achieve superiority in the game against your opponents. You have many things, starting with Auto Farm, Silent Aim, Gun/Knife Mod, ESP, Trolling, and many more features that make you invincible.
+Knife Ability Test, the #1 FREE GUI script designed to enhance your gameplay! Dominate the game with powerful features. This script helps you achieve superiority in the game against your opponents. You have many things, starting with Auto Farm, Silent Aim, Gun/Knife Mod, ESP, Trolling, and many more features that make you invincible.
 
 
 ## Features:
 * Undetected
 * Clean UI Library
 * Optimized
+* Auto Farm
+* FPS Boost
+* Ping/FPS Counter
+* Remove others Weapons
+* Nuke All (Crash All)
+* Play Sounds
+
+* Auto Grab Gun
+* Auto Farm Crates
 * Auto Farm Gems
-* Teleport to Murder
-* Teleport to Sheriff
-* Teleport to Lobby
-* Teleport to Map
-* Expose roles
-* Grab Gun
-* Knife Aura
+* Auto Farm Coins
+* Auto Farm PickuESP (Murder/Sheriff)
+* Max Ammo
+* Teleport to murder
+* Teleport to sheriff
+
+* No Knife Cooldown
+* Rapid Fire
+* Fast Reload
+* Silent aim
+* Aimbot
+* Wall Check
+* Trigger bot
 * Inf Ammo
-* God Mode
-* Silent Aim
-* Select Aim Target [Head/Body]
-* Draw Fov
-* Rainbow Fov
-* Fov Radius
-* Fov Numsides
-* Snaplines
-* Rainbow Snaplines
-* Boxes
-* Names 
-* Distance
-* Tracers
-* Rainbow Color
-* Face Camera 
-* Player Highlight
-* Rainbow Highlight
+
+* Walk Speed
+* Jump Power
+* Field of View
+* Infinite Jump
+* No Clip
+* Bhop
+* Spin Bot
+* Semi God mode
+* ESP (Boxes, Names, Health, Tool, Distance, Tracers)
+* Go to spawn with weapons
+* Spawn Map Vote
+* Teleport to spawn
+* Teleport to Safe Zone
+* Sky Changer
+* Full Bright
+
 * Spam Error Sound
 * Spam Sound
 * Annoying players
@@ -41,26 +57,21 @@ This script helps you achieve superiority in the game against your opponents. Yo
 * Gun Changer
 * Knife Changer
 * Skin Changer
-* WalkSpeed
-* JumpPower
-* Field of View
-* Infinite Jump
-* No Clip
-* Bhop
-* Teleport Spawn
-* Teleport Safe Zone
-* Full Bright
+
 * Rejoin
 * Serverhop
 * Server Browser
-* Configs (Saves your settings)
+* Crash Server
+
+* Settings
 
 ## Preview:
-![image](https://github.com/zReal-King/Knife-Ability-Test/assets/71533667/ac60f9a2-20ac-4988-8f88-0439362c4bdc)
+![image](https://github.com/user-attachments/assets/7c7d61e3-49c5-4031-9993-57290d5aa6af)
 
 ![image](https://github.com/zReal-King/Knife-Ability-Test/assets/71533667/90dacacb-8f38-49f8-89b0-2c9ae512329a)
 
-
+## Showcase:
+[![Watch the video](https://img.youtube.com/vi/xZZcb_Tscw0/0.jpg)](https://youtu.be/xZZcb_Tscw0)
 
 ### Contact us:
 
@@ -68,7 +79,7 @@ This script helps you achieve superiority in the game against your opponents. Yo
 
 
 ### Credits:
-@zReal-King
+@zReal-King (realking0001)
 
 Real King#0001
 
