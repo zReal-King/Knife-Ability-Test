@@ -11,27 +11,19 @@ Knife Ability Test, the #1 FREE GUI script designed to enhance your gameplay! Do
 * Optimized
 * Auto Farm
 * FPS Boost
-* Ping/FPS Counter
-* Remove others Weapons
-* Nuke All (Crash All)
-* Play Sounds
+* Ping Counter
 
+* ESP (Murder/Sheriff)
 * Auto Grab Gun
 * Auto Farm Crates
 * Auto Farm Gems
 * Auto Farm Coins
-* Auto Farm PickuESP (Murder/Sheriff)
+* Auto Farm Pickups
 * Max Ammo
-* Teleport to murder
-* Teleport to sheriff
 
-* No Knife Cooldown
-* Rapid Fire
-* Fast Reload
 * Silent aim
 * Aimbot
 * Wall Check
-* Trigger bot
 * Inf Ammo
 
 * Walk Speed
@@ -41,18 +33,10 @@ Knife Ability Test, the #1 FREE GUI script designed to enhance your gameplay! Do
 * No Clip
 * Bhop
 * Spin Bot
-* Semi God mode
 * ESP (Boxes, Names, Health, Tool, Distance, Tracers)
-* Go to spawn with weapons
-* Spawn Map Vote
-* Teleport to spawn
-* Teleport to Safe Zone
 * Sky Changer
 * Full Bright
 
-* Spam Error Sound
-* Spam Sound
-* Annoying players
 * Crazy Equip
 * Gun Changer
 * Knife Changer
@@ -79,8 +63,6 @@ Knife Ability Test, the #1 FREE GUI script designed to enhance your gameplay! Do
 
 
 ### Credits:
-@zReal-King (realking0001)
-
-Real King#0001
+@zReal-King (zReal_King)
 
 Thanks,
